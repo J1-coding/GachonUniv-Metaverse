@@ -46,8 +46,8 @@ Team member: 김재원, 이가영, 이동섭, 유연이, 윤세현
 
 ## Screenshots
 #### AI공학관을 옆면에서 바라본 모습과 AI공학관 1층에서 바라본 상공의 모습
-<img src="https://user-images.githubusercontent.com/76763417/179162124-71a6cd71-c317-4080-96c1-58378deeb726.png" width=1200 height=400>
+<img src="https://user-images.githubusercontent.com/76763417/179162124-71a6cd71-c317-4080-96c1-58378deeb726.png" width=1200 height=300>
 
 #### 밤에 본 AI 공학관 옥상과 Ai관 들어가는 입구의 정경(기숙사와 운동장, 무당이)
-<img src="https://user-images.githubusercontent.com/76763417/179162666-447fa446-dfb3-494c-9be2-74291012f605.png" width=1200 height=400>
+<img src="https://user-images.githubusercontent.com/76763417/179162666-447fa446-dfb3-494c-9be2-74291012f605.png" width=1200 height=300>
 
