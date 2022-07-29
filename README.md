@@ -21,7 +21,7 @@ Download Roblox file(.rbxl)
 ## Project
 가천의 새로운 바람, AI공학관
 #### Award
-<img src="https://user-images.githubusercontent.com/76763417/179164413-20521238-0293-456f-8a4c-2ee068a4e450.png" width=600 height=400>
+<img src="https://user-images.githubusercontent.com/83527213/181793581-00b4d0d2-1cac-4801-99b4-686986f3ee90.jpeg" width=300 height=400>
 
 ## Team
 Team name: 메타가천 가자궁
