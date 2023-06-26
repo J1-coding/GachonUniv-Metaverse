@@ -1,4 +1,4 @@
-# GachonUniv-Metaverse
+# Virtual Campus of Gachon University
 2022 Gachon University Metaverse Contest Project
 
 This project was made by Roblox Studio.
