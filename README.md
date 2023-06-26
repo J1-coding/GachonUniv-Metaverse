@@ -5,15 +5,16 @@ This is the 2022 Metaverse Contest Project for Gachon University, developed usin
 
 <br>
 YouTube play video
-Play Video
 
-You can play the game here!
+<https://youtu.be/3fs183NQAas>
 
-Play Game
+You can play here!
 
-Download the Roblox file (.rbxl)
+<https://www.roblox.com/games/9465955659/GachonUniv2022>
 
-Download File
+Download Roblox file(.rbxl)
+
+<https://drive.google.com/file/d/1RKnuR-7_rCnN6LBS-ytFTvdwflsCp1lH/view?usp=sharing>
 
 Project
 New Wave of Gachon, the AI Engineering Building
