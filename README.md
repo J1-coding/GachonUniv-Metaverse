@@ -9,7 +9,7 @@ This project was developed for the 2022 Metaverse Contest at Gachon University u
 > **Note**: Due to the complexity of integration between GitHub and Roblox Studios, this repository serves primarily as a project summary.
 
 **YouTube Demo Video**: [Play here](https://youtu.be/3fs183NQAas)  
-**Interactive Experience**: [Try it here](https://www.roblox.com/games/9465955659/GachonUniv2022)  
+**Interactive Experience in Roblox**: [Try it here](https://www.roblox.com/games/9465955659/GachonUniv2022)  
 **Download Roblox File (.rbxl)**: [Download here](https://drive.google.com/file/d/1RKnuR-7_rCnN6LBS-ytFTvdwflsCp1lH/view?usp=sharing)
 
 ## Project: New Wave of Gachon, the AI Engineering Building
