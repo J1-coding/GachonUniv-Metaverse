@@ -1,3 +1,4 @@
+![Roblox Studio Logo](https://upload.wikimedia.org/wikipedia/commons/e/eb/Roblox_Studio_logo_-_2022.svg)
 # Virtual Campus of Gachon University
 
 This project was developed for the 2022 Metaverse Contest at Gachon University using Roblox Studio.
