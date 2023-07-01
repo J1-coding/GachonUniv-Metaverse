@@ -13,11 +13,8 @@ This project was developed for the 2022 Metaverse Contest at Gachon University u
 **Team Name**: Metagachon Gazagung (메타가천 가자궁)  
 **Team Members**: Jaewon Kim, Gayoung Lee, Dongsub Lee, Yeoni Yoo, Sehyun Yun
 
-## Background of the Project
-Our team is comprised of students majoring or double-majoring in software... (continue your description here)
-
 ## Project Summary
-Our Metaverse project recreates several key locations in Gachon University... (continue your description here)
+Our Metaverse project recreates several key locations in Gachon University using Roblox Studio
 
 ## Screenshots
 **AI Engineering Building**: View from the side and from the 1st floor  
